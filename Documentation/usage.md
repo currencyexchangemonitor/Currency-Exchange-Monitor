@@ -1,9 +1,5 @@
 # Usage Guide
 
-## Prerequisites
-- Python 3.6 or higher
-- Required libraries (See `requirements.txt`)
-
 ## Installation
 1. Clone this repository: `git clone https://github.com/yourusername/yourproject.git`
 2. Install dependencies: `pip install -r requirements.txt`
